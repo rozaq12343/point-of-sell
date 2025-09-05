@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Kasir Cerdas (POS)",
+  "description": "Aplikasi Point of Sale (POS) modern untuk mengelola inventaris, melacak transaksi penjualan, dan memantau arus kas bisnis Anda secara efisien. Dibangun dengan React dan Tailwind CSS.",
+  "requestFramePermissions": []
+}
